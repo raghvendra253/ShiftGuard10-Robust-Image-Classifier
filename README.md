@@ -66,11 +66,8 @@ The final system achieved **88.3% Macro F1 on the held-out test set**, improving
 ```text
 ShiftGuard10/
 │
-├── code/
+├── model/
 │   └── <training-and-inference-code>
-│
-├── presentation/
-│   └── ShiftGuard10_Presentation.pdf
 │
 ├── report/
 │   └── ShiftGuard10_Report.pdf
